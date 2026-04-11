@@ -1,0 +1,15 @@
+Meeting Title: AI Assistant Project Kickoff
+Date: April 8, 2026
+Attendees: Alice (Product), Bob (Engineering), Charlie (Design)
+
+Action Items:
+1. Bob to finalize the real-time transcription pipeline using Deepgram by Friday.
+2. Charlie to share the high-fidelity Figma mockups for the AI Co-pilot interface.
+3. Alice to reach out to potential beta testers for the Q2 launch.
+
+Key Decisions:
+- We will use Groq for LLM inference due to its superior speed compared to competitors.
+- FAISS will be our primary vector store for the local MVP deployment.
+- The system must support PDF and DOCX uploads for the Knowledge Base.
+
+Next Sync: Monday at 10 AM.

@@ -1,0 +1,38 @@
+# Environments
+backend/env/
+env/
+.env
+backend/.env
+Frontend/.env
+Frontend/.env.local
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+backend/ai_meeting.db
+
+# Node
+Frontend/node_modules/
+Frontend/dist/
+Frontend/build/
+
+# Indices & Data
+backend/app/data/indices/
+backend/app/rag/documents/job_descriptions/
+backend/app/rag/documents/meeting_notes/
+backend/app/rag/documents/pdfs/
+backend/app/rag/documents/emails/
+backend/app/rag/documents/crm_records/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db

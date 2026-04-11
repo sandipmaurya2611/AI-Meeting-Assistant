@@ -1,0 +1,11 @@
+__pycache__
+venv
+.env
+.git
+.vscode
+*.pyc
+*.db
+*.sqlite
+*.sqlite3
+*.faiss
+rag_metadata.json

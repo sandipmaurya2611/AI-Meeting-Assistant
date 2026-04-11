@@ -1,0 +1,19 @@
+Position: Senior Software Engineer
+Location: Remote / New York
+Company: AI Innovations Corp.
+
+Role Overview:
+We are looking for a Senior Software Engineer with 5+ years of experience in Python and FastAPI. You will be responsible for building high-performance AI services and managing real-time data pipelines.
+
+Requirements:
+- Strong experience with Python 3.9+
+- Knowledge of Vector Databases like FAISS or Pinecone
+- Experience with LLM integration (OpenAI, Groq, Anthropic)
+- Mastery of Docker and CI/CD pipelines
+- Excellent problem-solving skills and mentorship abilities.
+
+Benefits:
+- Competitive salary and equity
+- Full health, dental, and vision insurance
+- Unlimited PTO
+- Remote-first culture.

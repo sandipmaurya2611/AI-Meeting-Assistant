@@ -1,0 +1,77 @@
+# Contract Terms and Renewal Policy
+
+## Standard Contract Terms
+
+### Contract Duration
+- Default contract term: 12 months
+- Auto-renewal: Enabled by default
+- Renewal notification: 30 days prior to renewal date
+
+### Early Termination
+- Termination notice: 30 days written notice required
+- Early termination fee: 50% of remaining contract value
+- Exception: No fee if service issues documented
+
+### Renewal Process
+1. Automatic renewal unless notice provided
+2. Pricing locked for renewal period
+3. Option to upgrade/downgrade at renewal
+4. New features included automatically
+
+## Cancellation Policy
+
+### How to Cancel
+- Email: support@company.com
+- Portal: Account settings > Cancel subscription
+- Phone: Call support team
+
+### Effective Date
+- Cancellation effective at end of current billing period
+- No partial month refunds
+- Access continues until period end
+
+### Data Retention
+- 90 days after cancellation
+- Export available during retention period
+- Permanent deletion after 90 days
+
+## Contract Modifications
+
+### Mid-Contract Changes
+- Upgrades: Effective immediately, pro-rated billing
+- Downgrades: Effective at next renewal
+- User count changes: Adjusted in next billing cycle
+
+### Price Changes
+- 60 days notice for price increases
+- Option to cancel without penalty during notice period
+- Grandfathered pricing for existing customers (12 months)
+
+## Service Level Agreement (SLA)
+
+### Uptime Guarantee
+- Standard: 99.5% uptime
+- Professional: 99.9% uptime  
+- Enterprise: 99.99% uptime with custom SLA
+
+### Credits for Downtime
+- Below 99.5%: 10% monthly credit
+- Below 99%: 25% monthly credit
+- Below 95%: 50% monthly credit
+
+## Legal Terms
+
+### Governing Law
+- Jurisdiction: Delaware, USA
+- Dispute resolution: Binding arbitration
+- Class action waiver: Included
+
+### Data Privacy
+- GDPR compliant
+- SOC 2 Type II certified
+- Data processing agreement available
+
+### Intellectual Property
+- Customer retains all rights to their data
+- Company retains rights to platform
+- No license to customer content beyond service provision

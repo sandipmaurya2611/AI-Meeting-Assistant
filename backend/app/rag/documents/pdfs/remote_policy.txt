@@ -1,0 +1,7 @@
+AI Innovations Corp - Remote Work Policy
+
+1. Productivity over Presence: We value output and results over hours spent in an office.
+2. Core Hours: Teams should be available for collaboration between 10 AM and 2 PM EST.
+3. Equipment: All full-time employees are eligible for a $2000 home-office stipend every 2 years.
+4. Security: All company machines must use the approved VPN and the latest security patches for local development.
+5. Communication: Use Slack for quick messages, Jira for task tracking, and the AI Meeting Assistant for all video calls to ensure auto-summarization.
